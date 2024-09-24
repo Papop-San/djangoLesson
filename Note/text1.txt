@@ -1,0 +1,26 @@
+#The most Popular and Faster in python Language
+
+
+The main core of libary , We call Batteries Included
+
+Django Features
+- Admin site
+- ORM
+- Authentication
+- Caching
+
+Django for Web Application
+
+            request
+Front End ============> Backend
+( Client )              (Server)
+
+            respond
+Front End <============ Backend
+( Client )              (Server)
+
+
+Client Side have a lot of framework Such as
+-Vue
+-React
+-Angular

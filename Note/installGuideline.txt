@@ -1,0 +1,17 @@
+#Installation 
+
+First step must create ENV
+
+- pip3  install pipenv
+
+# Start Project
+
+- Create Directory for manangement
+    - cd Directory
+    - pipenv install django 
+        We will get 2 files  Pipfile , Pipfile.lock
+    - pipenv shell
+    - django-admin 
+        for start Project
+    - django-admin startproject (Projject Name)
+
