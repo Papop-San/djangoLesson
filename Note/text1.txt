@@ -28,3 +28,6 @@ Client Side have a lot of framework Such as
 
 # Start Server
 python manage.py runserver
+
+# Create Directory 
+python .\manage.py startapp api
