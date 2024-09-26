@@ -24,3 +24,7 @@ Client Side have a lot of framework Such as
 -Vue
 -React
 -Angular
+
+
+# Start Server
+python manage.py runserver
