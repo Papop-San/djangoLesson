@@ -1,0 +1,7 @@
+# Api Framework
+pip install djangorestframework  
+
+
+# Create Model for Working with model Data
+python .\manage.py makemigrations
+python .\manage.py migrate
